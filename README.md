@@ -1,5 +1,5 @@
 # PowerBI---Curso-Alura
-Colocarei os Links dos DASHBOARDS criaados no curso.
+
 1 º https://app.powerbi.com/view?r=eyJrIjoiM2I4NjEwZGMtNjBjMS00MGIxLTk3YjgtNGFiMTNlYTQwZDRjIiwidCI6IjRkNjMyNDY1LTk4OWMtNDJkMS1hM2Q0LWE0MmE2ZmVjNzE2NCJ9&pageName=ReportSection
 
 
