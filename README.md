@@ -1,6 +1,7 @@
 # PowerBI---Curso-Alura
 
+LOJA PETS - ALURA 
 1 º https://app.powerbi.com/view?r=eyJrIjoiM2I4NjEwZGMtNjBjMS00MGIxLTk3YjgtNGFiMTNlYTQwZDRjIiwidCI6IjRkNjMyNDY1LTk4OWMtNDJkMS1hM2Q0LWE0MmE2ZmVjNzE2NCJ9&pageName=ReportSection
 
-
+CLUBE DO LIVRO - ALURA 
 2º https://app.powerbi.com/view?r=eyJrIjoiNWE1MGJjNTUtZGMwYy00ZmFjLTlhNWQtZTNlNDdlZTk5ODg2IiwidCI6IjRkNjMyNDY1LTk4OWMtNDJkMS1hM2Q0LWE0MmE2ZmVjNzE2NCJ9
