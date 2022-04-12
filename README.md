@@ -1,2 +1,2 @@
 # PowerBI---Curso-Alura
-Colocarei os links dos meus Dashboards produzidos em aulas e em treinamentos. 
+Colocarei os Links dos DASHBOARDS criaados no curso.
